@@ -1,0 +1,20 @@
+
+h1{
+  font-size: 56px;
+}
+
+#grid-container {
+  border: 4px solid black;
+  width: 352px;
+  height: 352px;
+  line-height: 0;
+}
+
+.grid-item {
+  border: 1px solid #ececec;
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
